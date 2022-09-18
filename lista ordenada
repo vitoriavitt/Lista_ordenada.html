@@ -4,11 +4,11 @@
     <title>Lista ordenada</title>
   </head>
   <body>
-    <ul>
+    <ol>
       <Li>Guarany de Bagé</Li>
       <li>Glória de Vacaria</li>
       <li>Aimoré</li>
       <li>Farroupilha</li>
-    </u1>
+    </ol>
   </body>
 </html>
